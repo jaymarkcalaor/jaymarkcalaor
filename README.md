@@ -46,11 +46,11 @@ I help property management companies and landlords cut admin work, fill vacancie
 
 **AI & Automation** &nbsp;·&nbsp; *Claude certified (10 Anthropic certifications)*
 
-![Claude](https://img.shields.io/badge/Claude-1F2937?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-1F2937?style=flat-square&logo=openai&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-1F2937?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-1F2937?style=flat-square&logo=googlegemini&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-1F2937?style=flat-square&logo=zapier&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-1F2937?style=flat-square)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-1F2937?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-1F2937?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-1F2937?style=flat-square)
+![Zapier](https://img.shields.io/badge/Zapier-1F2937?style=flat-square)
 ![Make](https://img.shields.io/badge/Make-1F2937?style=flat-square)
 
 **Build**
